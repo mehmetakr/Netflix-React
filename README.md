@@ -1,23 +1,4 @@
-# Kütüphaneler
-
-- react-router-dom
-- axios
-- Boootstarap
-
-- Redux
-- $ @splidejs/react-splide
-- React-redux
-- Redux thunk (veri isteklerini yönetebilmek için)
-
-APİ : https://developer.themoviedb.org/reference/discover-movie
-
-LOGO : https://image.tmdb.org/t/p/original/wwemzKWzjKYJFfCeiB57q3r4Bcm.svg
-
-RESİM İÇİN BaseURL : https://image.tmdb.org/t/p/original
-
 # Netflix-Clone.React
-
-Tabii, işte daha kısa bir README:
 
 Netflix Clone Projesi - React İle Geliştirilmiş Bir Uygulama
 
@@ -34,6 +15,23 @@ Kurulum:
 
 <h1>Proje Gif</h1>
 
-<img src="./src/yenivideo.mp4">
+<img src="./src/gifse.gif">
+
 # Netflix-React
-# Netflix-React
+
+# Kütüphaneler
+
+- react-router-dom
+- axios
+- Boootstarap
+
+- Redux
+- $ @splidejs/react-splide
+- React-redux
+- Redux thunk (veri isteklerini yönetebilmek için)
+
+APİ : https://developer.themoviedb.org/reference/discover-movie
+
+LOGO : https://image.tmdb.org/t/p/original/wwemzKWzjKYJFfCeiB57q3r4Bcm.svg
+
+RESİM İÇİN BaseURL : https://image.tmdb.org/t/p/original
